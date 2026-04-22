@@ -1,2 +1,2 @@
-# -haiti-sdlt-storymap
+# haiti-sdlt-storymap
 Capstone 
